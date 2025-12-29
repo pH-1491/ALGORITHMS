@@ -33,21 +33,18 @@ This repository contains implementations of common algorithms and data structure
 - /stacks_queues
 - /trees
 - /graphs
-- /sorting
 - /searching
 - /dynamic_programming
-- /greedy
 - /math
 - /geometry
 - /bit_manipulation
-- /templates (common utilities, DS implementations used across solutions)
-- /tests (optional: unit tests or sample inputs)
 
-Each folder should contain implementations grouped by topic and a README.md with a short index.
+
+Each folder contain implementations grouped by topic and a README.md with a short index.
 
 ## Languages used
 
-Primarily C++, Python, and Java. Use subfolders or file extensions to indicate language, e.g., `two_sum/two_sum.cpp` or `two_sum/two_sum.py`.
+Primarily C++ and Python. Use subfolders or file extensions to indicate language, e.g., `two_sum/two_sum.cpp` or `two_sum/two_sum.py`.
 
 ## How to run
 
